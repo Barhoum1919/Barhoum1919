@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning advanced DevOps practices, multi-cloud solutions, and LLM-powered automation<br>🎯 Goals: Become a skilled DevOps/Cloud Engineer and contribute to cutting-edge projects<br>🎲 Fun fact: I love automating everything, even my coffee reminders ☕</p>
+<p align="left">📚 I'm currently learning advanced DevOps practices, multi-cloud solutions, and LLM-powered automation<br>🎯 Goals: Become a skilled DevOps/Cloud Engineer and contribute to cutting-edge projects<br>🎲 Fun fact: I love automating everything, even my coffee reminders ☕</p>
 
 ###
 
