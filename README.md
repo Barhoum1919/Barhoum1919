@@ -5,7 +5,6 @@
 <p align="left">My name is Ibrahim Darghouthi and I'm a DevOps & Cloud enthusiast, final-year ICT engineering student at SUP'COM, Tunisia.</p> <br> 
 <p align="left">I am Seeking a 4-6 months end of studies 2026 Internship in DevOps&Cloud related poistion to apply my knowledge in a dynamic envienment .</p> 
 <p align="left">You can reach me : Email: ibrahim.darghouthi@supcom.tn or phone number : +216 29 043 005  WhatsApp: +216 29 066 950</p> 
-###
 
 <h2 align="left">About me</h2>
 
